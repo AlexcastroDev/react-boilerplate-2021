@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [AlexcastroDev/react-boilerplate-2021](https://github.com/AlexcastroDev/react-boilerplate-2021)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|33<br/>Tools used|01/02/24 <br/>Report generated|
+|33<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
